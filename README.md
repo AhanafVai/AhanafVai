@@ -4,18 +4,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=github_dark" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhanafVai&layout=compact" />
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img align="left" />
 ### Languages and Tools:
 <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,8 +15,8 @@
 
 
 - 🔭 I’m currently working on open source 
-- 🌱 I’m currently learning GrapQL, Node.js, Headless CMS 
-- 💬 Ask me about Frontend, Backend, Full-Stack 
+- 🌱 I’m currently learning GrapQL, Firebase
+- 💬 Ask me about Frontend, UI/UX 
 - 📫 How to reach me: ahanafabdullah9@gmail.com 
 - ⚡ Fun fact: I love history and design  
 
