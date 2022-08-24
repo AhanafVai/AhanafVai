@@ -2,10 +2,7 @@
 ####  Designer | Developer | Debater
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=github_dark" />
-<img align="left" width="47%" src="[https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhanafVai&layout=compact" />
 
 
 I'm dynamic and detail-oriented Web Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently.
