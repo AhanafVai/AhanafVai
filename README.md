@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi there, I'm Ahanaf Abdullah  👋 
 ####  Designer | Developer | Debater
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=calm)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=github_dark)
 
 I'm dynamic and detail-oriented Web Developer with a knack for conceptualizing and delivering elegant, user-friendly solutions effectively and efficiently.
 
