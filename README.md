@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ahanaf</h1>
 <h3 align="center">Designer | Developer | Debater</h3>
 
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=github_dark" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AhanafVai&show_icons=true&theme=github_dark" />
 <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhanafVai&layout=compact" />
 
 
