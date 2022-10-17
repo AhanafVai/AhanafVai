@@ -23,7 +23,7 @@
   <img align="center" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-- 🔭 I’m currently working on **open source**
+- 🔭 I’m currently working on **React projects**
 
 - 🌱 I’m currently learning **Firebase, Supabase, Typescript**
 
@@ -38,7 +38,8 @@
 <a href="https://twitter.com/ahanafabdullah1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahanafabdullah1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ahanafabdullah9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahanafabdullah9" height="30" width="40" /></a>
 <a href="https://instagram.com/ahanafabdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahanafabdullah" height="30" width="40" /></a>
-  <a href="https://github.com/AhanafVai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahanafvai" height="30" width="40" /></a>
+<a href="https://github.com/AhanafVai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ahanafvai" height="30" width="40" /></a>
+<a href="https://medium.com/@ahanafabdullah9" target="blank"><img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height="30" width="40" /></a>
 </p>
 
 ![Snake animation](https://github.com/AhanafVai/AhanafVai/blob/output/github-contribution-grid-snake.svg)
