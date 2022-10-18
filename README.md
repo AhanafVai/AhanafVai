@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **ahanafabdullah9@gmail.com**
 
-- ⚡ Fun fact **I love history and politics** 
+- ⚡ Fun fact **I am a fan of history and politics** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
